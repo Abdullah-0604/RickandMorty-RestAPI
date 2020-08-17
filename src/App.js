@@ -6,7 +6,7 @@ import Header from "./components/headerComponents/header";
 import Homepage from "./components/pages/homePage";
 import Characterpage from "./components/pages/characterPage";
 //styles
-import "./styles.scss";
+import "./styles.css";
 
 class App extends Component {
   render() {
